@@ -1,1 +1,2 @@
-from modules import *
+from neopets import NeoAccount
+from neopets.modules import *
