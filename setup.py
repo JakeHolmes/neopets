@@ -9,7 +9,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='neopets',
-    version='0.0.2',
+    version='0.0.3',
     url='http://neopets.com/',
     author='Ghosts',
     author_email='jakeryh@gmail.com',
