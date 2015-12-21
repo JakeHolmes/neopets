@@ -15,6 +15,6 @@ setup(
     author_email='jakeryh@gmail.com',
     
     keywords='neopets',
-    packages=['neopets'],
+    packages=find_packages(),
     install_requires=['BeautifulSoup4', 'HTMLParser']
 )
